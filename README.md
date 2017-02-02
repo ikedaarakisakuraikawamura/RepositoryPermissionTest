@@ -1,0 +1,2 @@
+# RepositoryPermissionTest
+リポジトリ単位のアクセス権限テスト用リポジトリ
